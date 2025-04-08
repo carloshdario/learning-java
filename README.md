@@ -2,6 +2,8 @@
 
 Este repositório contém meus estudos, códigos, anotações e progresso no curso **Especialista Java** da [AlgaWorks](https://www.algaworks.com/), uma formação completa para se tornar um desenvolvedor Java profissional.
 
+Logo estarei alimentando com codigos esse repositorio.
+
 Abaixo está o checklist detalhado dos módulos e conteúdos cobertos durante o curso, com meu progresso marcado. ✅
 
 ---
